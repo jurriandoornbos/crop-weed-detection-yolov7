@@ -19,7 +19,7 @@
 
 ![Downloads](https://img.shields.io/github/downloads/jurriandoornbos/crop-weed-detection/total) ![Contributors](https://img.shields.io/github/contributors/jurriandoornbos/crop-weed-detection?color=dark-green) ![Forks](https://img.shields.io/github/forks/jurriandoornbos/crop-weed-detection?style=social) ![Stargazers](https://img.shields.io/github/stars/jurriandoornbos/crop-weed-detection?style=social) ![Issues](https://img.shields.io/github/issues/jurriandoornbos/crop-weed-detection) ![License](https://img.shields.io/github/license/jurriandoornbos/crop-weed-detection) 
 
-![workflow](../images/workflow.png)
+![workflow](https://github.com/jurriandoornbos/crop-weed-detection-yolov7/blob/main/images/workflow.png?raw=true)
 
 ## Table Of Contents
 
